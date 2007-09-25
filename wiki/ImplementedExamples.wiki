@@ -28,9 +28,9 @@ These are examples from the iText project that are implemented. These demonstrat
 ||iText Version||DONE||
 ||Pdf Version||DONE||
 
+==Fonts==
 
-
-
+||StandardType1Fonts||DONE||
 
 
 
