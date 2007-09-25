@@ -26,9 +26,7 @@ These are examples from the iText project that are implemented. These demonstrat
 ||Measurements||DONE||
 ||New Page||
 ||iText Version||DONE||
-||Pdf Version||
-
-
+||Pdf Version||DONE||
 
 
 
