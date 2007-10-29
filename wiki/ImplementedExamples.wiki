@@ -30,7 +30,6 @@ These are examples from the iText project that are implemented. These demonstrat
 
 ==Fonts==
 
-||StandardType1Fonts||DONE||
-
-
+||Standard Type 1 Fonts||DONE||
+||Font Factory Type 1 Fonts||DONE||
 
