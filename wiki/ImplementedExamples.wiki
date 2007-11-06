@@ -24,7 +24,7 @@ These are examples from the iText project that are implemented. These demonstrat
 ==Frequently Asked Questions==
 
 ||Measurements||DONE||
-||New Page||
+||New Page||DONE||
 ||iText Version||DONE||
 ||Pdf Version||DONE||
 
