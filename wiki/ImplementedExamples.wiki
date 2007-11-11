@@ -28,8 +28,15 @@ These are examples from the iText project that are implemented. These demonstrat
 ||iText Version||DONE||
 ||Pdf Version||DONE||
 
+==Basic Text Objects==
+||Chunks|| ||
+||Different Fonts||DONE||
+||Paragraphs||DONE||
+
 ==Fonts==
 
 ||Standard Type 1 Fonts||DONE||
 ||Font Factory Type 1 Fonts||DONE||
 ||Unicode ||DONE||
+||List Encodings||DONE||
+||Font Encoding||DONE||
