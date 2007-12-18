@@ -32,7 +32,7 @@ These are examples from the iText project that are implemented. These demonstrat
 ||Chunks||DONE ||
 ||Different Fonts||DONE||
 ||Paragraphs||DONE||
-||SpaceWordRatio|| ||
+||Space Word Ratio|| ||
 ||Paragraph Attributes|| ||
 ||Phrases|| ||
 ||Negative Leading|| ||
